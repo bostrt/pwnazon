@@ -70,4 +70,3 @@ shell_exec("rm -r $adid ad-manifest.json");
     readfile($adfile);
     shell_exec("rm $adfile");
     exit;
-?>
